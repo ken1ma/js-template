@@ -13,7 +13,7 @@ $ npm create vite@latest
 │  Vue
 │
 ◇  Select a variant:
-│  JavaScript
+│  TypeScript
 │
 ◇  Scaffolding project in /Users/kenichi/js-template/vite-project...
 │
