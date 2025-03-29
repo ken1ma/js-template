@@ -10,7 +10,7 @@ $ npm create vite@latest
 │  vite-project
 │
 ◇  Select a framework:
-│  Vanilla
+│  Vue
 │
 ◇  Select a variant:
 │  JavaScript
